@@ -1,0 +1,1 @@
+cmd_/home/haibd/Desktop/Git/USB_Driver/USB_Driver-FAT-/test2/test2.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/haibd/Desktop/Git/USB_Driver/USB_Driver-FAT-/test2/test2.ko /home/haibd/Desktop/Git/USB_Driver/USB_Driver-FAT-/test2/test2.o /home/haibd/Desktop/Git/USB_Driver/USB_Driver-FAT-/test2/test2.mod.o ;  true
